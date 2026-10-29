@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aman Sharma 👋</h1>
 
-<h3 align="center">Data Analyst | Turning data into clear business insights</h3>
+<h3 align="center">Data Analyst | SQL · Python · Power BI · Excel</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-sharma-90554536a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a BCA graduate from **GLA University, Mathura** (2026) preparing for **Data Analyst** roles. I enjoy cleaning messy data, writing SQL queries, and building interactive dashboards that turn numbers into decisions.
+I'm a BCA graduate from **GLA University, Mathura** (2026) preparing for **Junior Data Analyst** roles. I enjoy cleaning messy data, writing SQL queries, and building interactive dashboards that turn numbers into decisions.
 
 - 📊 I work end to end: **Excel → Python → PostgreSQL → Power BI**
 - 🔍 Currently building more real-world analytics projects
-- 🎯 Looking for an Data Analyst opportunity
+- 🎯 Looking for my first Data Analyst role
 
 ---
 
@@ -93,7 +93,7 @@ An end-to-end analysis of the Kaggle Superstore dataset: **9,800 transactions ·
 
 ## 📫 Let's Connect
 
-I'm open to Junior Data Analyst opportunities. Feel free to reach out:
+I am open to Data Analyst opportunities (junior and associate roles included). Feel free to reach out:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aman-sharma-90554536a/)
 - 📧 luckyamansharma7@gmail.com
