@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a BCA graduate from **GLA University, Mathura** (2026) preparing for **Junior Data Analyst** roles. I enjoy cleaning messy data, writing SQL queries, and building interactive dashboards that turn numbers into decisions.
+I'm a BCA graduate from **GLA University, Mathura** preparing for **Data Analyst** roles. I enjoy cleaning messy data, writing SQL queries, and building interactive dashboards that turn numbers into decisions.
 
 - 📊 I work end to end: **Excel → Python → PostgreSQL → Power BI**
 - 🔍 Currently building more real-world analytics projects
